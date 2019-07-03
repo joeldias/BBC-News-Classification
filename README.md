@@ -1,4 +1,4 @@
-# BBC-News-Classification
+#News-Classification
 
 Dataset used from http://mlg.ucd.ie/datasets/bbc.html
 
